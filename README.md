@@ -17,7 +17,36 @@ Detalhamos a análise exploratória, clusterização e os modelos preditivos no 
 
 A estimativa considera uma máquina com 2 CPUs, 1 GiB de RAM, 5 Gbps de rede e 50 GB de armazenamento, com análise de viabilidade técnica e econômica.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore pariatur delectus qui ipsum magnam beatae sit fugiat cumque architecto necessitatibus corrupti reiciendis molestiae perferendis voluptatem culpa officiis, magni deleniti. Ullam ea quaerat ut error omnis atque nisi sint cumque perferendis at, vitae nostrum maiores, ipsum id. Mollitia tempore perferendis asperiores.
+### 📊 Comparação de Custos por Região AWS
+
+| Região | Custo Mensal | Custo Anual |
+|--------|-------------|-------------|
+| **São Paulo (BR)** | **$17.38 USD** | **$208.56 USD** |
+| **Virgínia do Norte (EUA)** | **$10.13 USD** | **$121.56 USD** |
+
+### 📊 Gráfico Comparativo de Custos AWS
+
+![Comparação de Custos AWS](assets/aws_cost_comparison.png)
+
+### 📷 Prints das Configurações AWS
+
+📌 **Estimativa AWS - São Paulo**  
+![AWS São Paulo - Configuração](assets/aws_sao_paulo.png)  
+
+📌 **Estimativa AWS - Virgínia do Norte**  
+![AWS Virgínia do Norte - Configuração](assets/aws_virginia.png)  
+
+### 📌 Justificativa da Escolha
+
+Para determinar a melhor região para hospedar a API, consideramos três fatores principais:
+
+✔ **Custo:** A AWS na Virgínia do Norte é **41.7% mais barata** do que São Paulo, o que representa uma economia significativa ao longo do tempo.
+
+✔ **Latência:** Se a API precisar responder rapidamente para dispositivos e usuários no Brasil, a escolha de São Paulo pode ser mais vantajosa devido à menor latência. No entanto, para aplicações que não exigem resposta imediata, a diferença pode ser desprezível.
+
+✔ **Restrições Legais:** Se houver **exigências regulatórias** para armazenar os dados no Brasil, a escolha da região de São Paulo pode ser obrigatória. Caso contrário, Virgínia do Norte continua sendo a melhor escolha pelo custo reduzido.
+
+🔍 **Decisão Final:** Como nossa aplicação **não tem restrições legais** e prioriza **a economia de custos**, a melhor opção para hospedar a API é **AWS Virgínia do Norte**. Essa escolha proporciona **a maior redução de despesas** sem impactar a funcionalidade da solução.
 
 ## Equipe
 
