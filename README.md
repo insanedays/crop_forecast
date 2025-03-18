@@ -13,7 +13,7 @@ Detalhamos a análise exploratória, clusterização e os modelos preditivos no 
 
 ## Entrega 2 - Estimativa de Custos na AWS
 
-- **Vídeo Demonstrativo**: Comparação de custos entre regiões AWS - [https://youtube.com/watch?v=fakeAWSCost456](https://youtube.com/watch?v=fakeAWSCost456)  
+- **Vídeo Demonstrativo**: Comparação de custos entre regiões AWS - [Youtube](https://www.youtube.com/watch?v=Iy3-xdf4uU0)  
 
 A estimativa considera uma máquina com 2 CPUs, 1 GiB de RAM, 5 Gbps de rede e 50 GB de armazenamento, com análise de viabilidade técnica e econômica.
 
