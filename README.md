@@ -7,13 +7,13 @@ Este repositório abrange duas entregas obrigatórias da Fase 5. Na **Entrega 1*
 ## Entrega 1 - Previsão de Rendimento de Safras
 
 - **Vídeo Demonstrativo**: Exibição do modelo de Machine Learning - [https://youtube.com/watch?v=fakeMLDemo123](https://youtube.com/watch?v=fakeMLDemo123)  
-- **Jupyter Notebook**: Documentação completa do processo - [./notebook.ipynb](./notebook.ipynb)  
+- **Jupyter Notebook**: Documentação completa do processo - [Notebook](./LuisFillipeEmidio_rm559976_pbl_fase5.ipynb)  
 
 Detalhamos a análise exploratória, clusterização e os modelos preditivos no notebook, com códigos comentados e conclusões.
 
 ## Entrega 2 - Estimativa de Custos na AWS
 
-- **Vídeo Demonstrativo**: Comparação de custos entre regiões AWS - [https://youtube.com/watch?v=fakeAWSCost456](https://youtube.com/watch?v=fakeAWSCost456)  
+- **Vídeo Demonstrativo**: Comparação de custos entre regiões AWS - [Youtube](https://www.youtube.com/watch?v=Iy3-xdf4uU0)  
 
 A estimativa considera uma máquina com 2 CPUs, 1 GiB de RAM, 5 Gbps de rede e 50 GB de armazenamento, com análise de viabilidade técnica e econômica.
 
