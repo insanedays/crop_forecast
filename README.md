@@ -44,6 +44,11 @@ A estimativa considera uma máquina com 2 CPUs, 1 GiB de RAM, 5 Gbps de rede e 5
 <img src="assets/us/4.png" width="800">
 <img src="assets/us/5.png" width="800">
 
+## 📄 PDFs
+
+- [Estimativa AWS - São Paulo - PDF](./assets/sp/sp-aws-pricing-estimate.pdf)
+- [Estimativa AWS - Virgínia do Norte - PDF](./assets/us/us-aws-pricing-estimate.pdf)
+
 ### 📌 Justificativa da Escolha
 
 Para determinar a melhor região para hospedar a API, consideramos três fatores principais:
