@@ -26,15 +26,28 @@ A estimativa considera uma máquina com 2 CPUs, 1 GiB de RAM, 5 Gbps de rede e 5
 
 ### 📊 Gráfico Comparativo de Custos AWS
 
-![Comparação de Custos AWS](assets/aws_cost_comparison.png)
+<img src="assets/aws_cost_comparison.png" width="800">
 
 ### 📷 Prints das Configurações AWS
 
 📌 **Estimativa AWS - São Paulo**  
-![AWS São Paulo - Configuração](assets/aws_sao_paulo.png)  
+<img src="assets/sp/1.png" width="800">
+<img src="assets/sp/2.png" width="800">
+<img src="assets/sp/3.png" width="800">
+<img src="assets/sp/4.png" width="800">
+<img src="assets/sp/5.png" width="800">
 
 📌 **Estimativa AWS - Virgínia do Norte**  
-![AWS Virgínia do Norte - Configuração](assets/aws_virginia.png)  
+<img src="assets/us/1.png" width="800">
+<img src="assets/us/2.png" width="800">
+<img src="assets/us/3.png" width="800">
+<img src="assets/us/4.png" width="800">
+<img src="assets/us/5.png" width="800">
+
+## 📄 PDFs
+
+- [Estimativa AWS - São Paulo - PDF](./assets/sp/sp-aws-pricing-estimate.pdf)
+- [Estimativa AWS - Virgínia do Norte - PDF](./assets/us/us-aws-pricing-estimate.pdf)
 
 ### 📌 Justificativa da Escolha
 
