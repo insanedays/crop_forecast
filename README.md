@@ -6,7 +6,7 @@ Este repositório abrange duas entregas obrigatórias da Fase 5. Na **Entrega 1*
 
 ## Entrega 1 - Previsão de Rendimento de Safras
 
-- **Vídeo Demonstrativo**: Exibição do modelo de Machine Learning - [https://youtube.com/watch?v=fakeMLDemo123](https://youtube.com/watch?v=fakeMLDemo123)  
+- **Vídeo Demonstrativo**: Exibição do modelo de Machine Learning - [Youtube](https://www.youtube.com/watch?v=RgJlUZzcnlw)  
 - **Jupyter Notebook**: Documentação completa do processo - [Notebook](./LuisFillipeEmidio_rm559976_pbl_fase5.ipynb)  
 
 Detalhamos a análise exploratória, clusterização e os modelos preditivos no notebook, com códigos comentados e conclusões.
