@@ -1,8 +1,7 @@
 Este repositório é um fork de [activity-fiap-ai-p5a1](https://github.com/luisfuturist/activity-fiap-ai-p5a1), resultado de um trabalho realizado em conjunto com outros colaboradores.
 O fork foi criado para manter uma cópia pessoal do projeto que participei ativamente na elaboração. 
 
-
-# activity-fiap-ai-p5a1
+#FIAP - Fase 05
 
 > Este projeto faz parte do curso de **Inteligência Artificial** da [FIAP](https://github.com/fiap) - Online 2024. Este repositório é a atividade "**Fase 5** - FarmTech Solutions: Machine Learning e Computação em Nuvem".
 
